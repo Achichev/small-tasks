@@ -1,11 +1,10 @@
-package test;
 
 
 import javax.mail.*;
 import javax.mail.internet.*;
 import java.util.Properties;
 
-public class Program  {
+public class EmailSender  {
     public static void main(String[] args) throws MessagingException {
         String username = "myMail@mail.ru";
         String password = "myPassword123";
