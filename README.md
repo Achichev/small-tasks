@@ -1,2 +1,2 @@
 # small-tasks
-1) EmailSende - программа для отправки email.
+1) EmailSender - программа для отправки email.
